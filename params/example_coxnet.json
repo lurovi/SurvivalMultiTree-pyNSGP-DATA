@@ -1,0 +1,8 @@
+{
+	"method": ["coxnet"],
+	"seed": [1, 2, 3],
+	"dataset": ["pbc2", "support2"],
+	"normalize": [0, 1],
+	"test_size": [0.3],
+	"config": ["../SurvivalMultiTree-pyNSGP-DATA/config_coxnet.yaml"]
+}
