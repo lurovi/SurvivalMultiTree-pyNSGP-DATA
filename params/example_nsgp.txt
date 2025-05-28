@@ -1,0 +1,12 @@
+config;../SurvivalMultiTree-pyNSGP-DATA/config_nsgp.yaml;dataset;pbc2;method;nsgp;normalize;0;run_id;example_nsgp;seed;1;test_size;0.3
+config;../SurvivalMultiTree-pyNSGP-DATA/config_nsgp.yaml;dataset;pbc2;method;nsgp;normalize;1;run_id;example_nsgp;seed;1;test_size;0.3
+config;../SurvivalMultiTree-pyNSGP-DATA/config_nsgp.yaml;dataset;support2;method;nsgp;normalize;0;run_id;example_nsgp;seed;1;test_size;0.3
+config;../SurvivalMultiTree-pyNSGP-DATA/config_nsgp.yaml;dataset;support2;method;nsgp;normalize;1;run_id;example_nsgp;seed;1;test_size;0.3
+config;../SurvivalMultiTree-pyNSGP-DATA/config_nsgp.yaml;dataset;pbc2;method;nsgp;normalize;0;run_id;example_nsgp;seed;2;test_size;0.3
+config;../SurvivalMultiTree-pyNSGP-DATA/config_nsgp.yaml;dataset;pbc2;method;nsgp;normalize;1;run_id;example_nsgp;seed;2;test_size;0.3
+config;../SurvivalMultiTree-pyNSGP-DATA/config_nsgp.yaml;dataset;support2;method;nsgp;normalize;0;run_id;example_nsgp;seed;2;test_size;0.3
+config;../SurvivalMultiTree-pyNSGP-DATA/config_nsgp.yaml;dataset;support2;method;nsgp;normalize;1;run_id;example_nsgp;seed;2;test_size;0.3
+config;../SurvivalMultiTree-pyNSGP-DATA/config_nsgp.yaml;dataset;pbc2;method;nsgp;normalize;0;run_id;example_nsgp;seed;3;test_size;0.3
+config;../SurvivalMultiTree-pyNSGP-DATA/config_nsgp.yaml;dataset;pbc2;method;nsgp;normalize;1;run_id;example_nsgp;seed;3;test_size;0.3
+config;../SurvivalMultiTree-pyNSGP-DATA/config_nsgp.yaml;dataset;support2;method;nsgp;normalize;0;run_id;example_nsgp;seed;3;test_size;0.3
+config;../SurvivalMultiTree-pyNSGP-DATA/config_nsgp.yaml;dataset;support2;method;nsgp;normalize;1;run_id;example_nsgp;seed;3;test_size;0.3

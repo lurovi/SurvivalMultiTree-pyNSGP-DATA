@@ -1,0 +1,12 @@
+config;../SurvivalMultiTree-pyNSGP-DATA/config_coxnet.yaml;dataset;pbc2;method;coxnet;normalize;0;run_id;example_coxnet;seed;1;test_size;0.3
+config;../SurvivalMultiTree-pyNSGP-DATA/config_coxnet.yaml;dataset;pbc2;method;coxnet;normalize;1;run_id;example_coxnet;seed;1;test_size;0.3
+config;../SurvivalMultiTree-pyNSGP-DATA/config_coxnet.yaml;dataset;support2;method;coxnet;normalize;0;run_id;example_coxnet;seed;1;test_size;0.3
+config;../SurvivalMultiTree-pyNSGP-DATA/config_coxnet.yaml;dataset;support2;method;coxnet;normalize;1;run_id;example_coxnet;seed;1;test_size;0.3
+config;../SurvivalMultiTree-pyNSGP-DATA/config_coxnet.yaml;dataset;pbc2;method;coxnet;normalize;0;run_id;example_coxnet;seed;2;test_size;0.3
+config;../SurvivalMultiTree-pyNSGP-DATA/config_coxnet.yaml;dataset;pbc2;method;coxnet;normalize;1;run_id;example_coxnet;seed;2;test_size;0.3
+config;../SurvivalMultiTree-pyNSGP-DATA/config_coxnet.yaml;dataset;support2;method;coxnet;normalize;0;run_id;example_coxnet;seed;2;test_size;0.3
+config;../SurvivalMultiTree-pyNSGP-DATA/config_coxnet.yaml;dataset;support2;method;coxnet;normalize;1;run_id;example_coxnet;seed;2;test_size;0.3
+config;../SurvivalMultiTree-pyNSGP-DATA/config_coxnet.yaml;dataset;pbc2;method;coxnet;normalize;0;run_id;example_coxnet;seed;3;test_size;0.3
+config;../SurvivalMultiTree-pyNSGP-DATA/config_coxnet.yaml;dataset;pbc2;method;coxnet;normalize;1;run_id;example_coxnet;seed;3;test_size;0.3
+config;../SurvivalMultiTree-pyNSGP-DATA/config_coxnet.yaml;dataset;support2;method;coxnet;normalize;0;run_id;example_coxnet;seed;3;test_size;0.3
+config;../SurvivalMultiTree-pyNSGP-DATA/config_coxnet.yaml;dataset;support2;method;coxnet;normalize;1;run_id;example_coxnet;seed;3;test_size;0.3
